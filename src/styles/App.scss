@@ -1,0 +1,19 @@
+.table{
+    // padding-top: 5rem;
+    font-size: large !important;
+    font-weight: 300 !important;
+  }
+  .action{
+    opacity: 0;
+  }
+  tr:hover .action{
+    opacity: 1;
+  }
+
+  tbody td a:nth-child(2){
+    color: rgb(245,0,87);
+  }
+
+  span{
+    cursor: pointer !important;
+  }
